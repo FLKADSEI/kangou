@@ -1,0 +1,8 @@
+{
+  "name": "Kangou",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "28c6c406"
+}

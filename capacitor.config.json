@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Kangou",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
